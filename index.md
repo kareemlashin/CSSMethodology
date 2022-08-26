@@ -1,3 +1,10 @@
 // CSS Methodology
 [https://www.webtips.dev/10-best-practices-for-quickly-improving-your-css]
 [https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741]
+[https://www.creativebloq.com/features/a-web-designers-guide-to-css-methodologies]
+[https://www.webfx.com/blog/web-design/css-methodologies/]
+[https://www.valoremreply.com/post/5_css_methodologies/]
+[https://www.arekibo.com/blog/popular-css-methodologies-for-scaling-web-projects/]
+[https://medium.com/@uidev3594/css-methodologies-d31903bafab3]
+[https://blog.logrocket.com/cube-css-alternative-css-methodology/]
+[https://blog.logrocket.com/bem-vs-smacss-comparing-css-methodologies/]
